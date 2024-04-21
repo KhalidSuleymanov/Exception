@@ -1,0 +1,14 @@
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\bin\Debug\netcoreapp3.1\HomeAbstraction.exe
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\bin\Debug\netcoreapp3.1\HomeAbstraction.deps.json
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\bin\Debug\netcoreapp3.1\HomeAbstraction.runtimeconfig.json
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\bin\Debug\netcoreapp3.1\HomeAbstraction.runtimeconfig.dev.json
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\bin\Debug\netcoreapp3.1\HomeAbstraction.dll
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\bin\Debug\netcoreapp3.1\HomeAbstraction.pdb
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\obj\Debug\netcoreapp3.1\HomeAbstraction.csproj.AssemblyReference.cache
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\obj\Debug\netcoreapp3.1\HomeAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\obj\Debug\netcoreapp3.1\HomeAbstraction.AssemblyInfoInputs.cache
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\obj\Debug\netcoreapp3.1\HomeAbstraction.AssemblyInfo.cs
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\obj\Debug\netcoreapp3.1\HomeAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\obj\Debug\netcoreapp3.1\HomeAbstraction.dll
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\obj\Debug\netcoreapp3.1\HomeAbstraction.pdb
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\HomeAbstraction\obj\Debug\netcoreapp3.1\HomeAbstraction.genruntimeconfig.cache

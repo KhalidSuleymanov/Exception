@@ -1,0 +1,14 @@
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\bin\Debug\netcoreapp3.1\StudentNoValue.exe
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\bin\Debug\netcoreapp3.1\StudentNoValue.deps.json
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\bin\Debug\netcoreapp3.1\StudentNoValue.runtimeconfig.json
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\bin\Debug\netcoreapp3.1\StudentNoValue.runtimeconfig.dev.json
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\bin\Debug\netcoreapp3.1\StudentNoValue.dll
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\bin\Debug\netcoreapp3.1\StudentNoValue.pdb
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\obj\Debug\netcoreapp3.1\StudentNoValue.csproj.AssemblyReference.cache
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\obj\Debug\netcoreapp3.1\StudentNoValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\obj\Debug\netcoreapp3.1\StudentNoValue.AssemblyInfoInputs.cache
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\obj\Debug\netcoreapp3.1\StudentNoValue.AssemblyInfo.cs
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\obj\Debug\netcoreapp3.1\StudentNoValue.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\obj\Debug\netcoreapp3.1\StudentNoValue.dll
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\obj\Debug\netcoreapp3.1\StudentNoValue.pdb
+C:\Users\Khalid Suleymanov\source\repos\StudentNoValue\StudentNoValue\obj\Debug\netcoreapp3.1\StudentNoValue.genruntimeconfig.cache
